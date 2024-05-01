@@ -8,7 +8,7 @@ Explore my repos for cool stuff I've worked on!
 
 ## Contact
 Let's chat:
-- Email: [your-email@example.com](mailto:sarif21@itu.edu.tr)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/feyza-sarı-ab93aa219/)
+- Email: [sarif21@itu.edu.tr](mailto:sarif21@itu.edu.tr)
+- LinkedIn: [Feyza Sarı](https://www.linkedin.com/in/feyza-sarı-ab93aa219/)
 
 
