@@ -1,16 +1,14 @@
-### Hi there 👋
+# Feyza's GitHub
 
-<!--
-**itu-itis21-sarif21/itu-itis21-sarif21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Feyza, a full-stack developer from Istanbul Tech Uni, currently at Borsa Istanbul. I'm diving into deep learning lately!
 
-Here are some ideas to get you started:
+## Projects
+Explore my repos for cool stuff I've worked on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Let's chat:
+- Email: [your-email@example.com](mailto:sarif21@itu.edu.tr)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/feyza-sarı-ab93aa219/)
+
+
